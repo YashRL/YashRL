@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f28b4022600593.58c272e374fa3.gif)](https://yashrawal2001.netlify.app/)
+[![MasterHead](https://raw.githubusercontent.com/YashRL/YashRL/main/1682969322201.jpeg)](https://yashrawal2001.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">I'm a Master's student specializing in AI and Machine Learning.</h3>
