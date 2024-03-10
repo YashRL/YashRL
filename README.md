@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently woking on OpenAI(Glidetext2im) library-- Open Source<br>👯 I’m looking to collaborate on my Text to image generator<br>🤝 I’m looking for help with NodeJS<br>🌱 I’m currently learning AIML<br>💬 Ask me about nothing<br>⚡ Day Dreamer
 
 
 ## 🌐 Socials:
