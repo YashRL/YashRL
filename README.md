@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrl&label=Profile%20views&color=0e75b6&style=flat" alt="yashrl" /> </p>
 
-🔭 I’m currently working on **Vexa Web App**
+🔭 I’m currently working on **Glidetext2im**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Python and ML**
 
 - 📫 How to reach me **yashrawal987@gmail.com**
 
