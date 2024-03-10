@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">I'm a Master's student specializing in AI and Machine Learning.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrl&label=Profile%20views&color=0e75b6&style=flat" alt="yashrl" /> </p>
 
