@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **yashrawal987@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
