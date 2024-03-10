@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/92149073/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f28b4022600593.58c272e374fa3.gif))](https://yashrawal2001.netlify.app/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f28b4022600593.58c272e374fa3.gif)](https://yashrawal2001.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">Embarking on innovation with expertise: I am a Web Developer and AIML Enthusiast.</h3>
