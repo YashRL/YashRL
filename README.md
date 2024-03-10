@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f28b4022600593.58c272e374fa3.gif)](https://yashrawal2001.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Embarking on innovation with expertise: I am a Web Developer and AIML Enthusiast.</h3>
+<h3 align="center">Hello, I'm Yash, a Master's student specializing in AI and Machine Learning. I have a strong background in Python, JavaScript, Linux, SQL, and DSA, with experience in full-stack web development and AI tasks. I am passionate about open-source contributions and am currently seeking opportunities to apply my skills in a dynamic environment. Looking forward to connecting and exploring potential collaborations!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
