@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **Glidetext2im**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Python and ML**
 
