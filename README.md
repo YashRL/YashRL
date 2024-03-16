@@ -16,7 +16,7 @@
 - 📫 How to reach me **yashrawal987@gmail.com**
 
 - ⚡ Fun fact **Lazy Person == Best Coder**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Network with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-rawal" height="30" width="40" /></a>
 <a href="https://instagram.com/_rawal_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rawal_yash" height="30" width="40" /></a>
