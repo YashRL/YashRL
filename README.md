@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on **Glidetext2im**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Python and ML**
 
