@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/YashRL/YashRL/main/1682969322201.jpeg)](https://yashrawal2001.netlify.app/)
+[![MasterHead](https://github.com/YashRL/YashRL/blob/main/ANN.jpg)](https://yashrawal2001.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">I'm an AI/ML Engineer.</h3>
