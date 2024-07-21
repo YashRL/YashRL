@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashrawal987@gmail.com**
 
-- ⚡ **"I might not be as fast as a GPU, but I promise I'll connect before your coffee gets cold.**
+- ⚡ **"I might not be as fast as a GPU, but I promise I'll connect before your coffee gets cold."**
 <h3 align="left">Network with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-rawal" height="30" width="40" /></a>
