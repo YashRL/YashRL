@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ASR and Generative AI**
 
-- 💬 Ask me about **Python and ML**
+- 💬 Ask me about **Python and Neural Networks**
 
 - 📫 How to reach me **yashrawal987@gmail.com**
 
