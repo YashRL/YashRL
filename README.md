@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/YashRL/YashRL/blob/main/ANN2.jpg)](https://yashrawal2001.netlify.app/)
-
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">I'm an AI/ML Engineer.</h3>
 
