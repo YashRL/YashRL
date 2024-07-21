@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrl&label=Profile%20views&color=0e75b6&style=flat" alt="yashrl" /> </p>
 
-🔭 I’m currently working on **Glidetext2im**
+🔭 I’m currently working on **AI solutions related to Healthcare Solutions**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **ASR and Generative AI**
 
 - 💬 Ask me about **Python and ML**
 
 - 📫 How to reach me **yashrawal987@gmail.com**
 
-- ⚡ Fun fact **Lazy Person == Best Coder**
+- ⚡ Amazing fact **You can run an LLMs like Lamma3 and Phi-3 on i5 6th Gen and 16GB RAM without GPU**
 <h3 align="left">Network with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-rawal" height="30" width="40" /></a>
