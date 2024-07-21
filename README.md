@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashrawal987@gmail.com**
 
-- ⚡ Amazing fact **You can run an LLMs like Lamma3 and Phi-3 on i5 6th Gen and 16GB RAM without GPU**
+- ⚡ **"I might not be as fast as a GPU, but I promise I'll connect before your coffee gets cold. #AIMLEngineerLife**
 <h3 align="left">Network with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-rawal" height="30" width="40" /></a>
