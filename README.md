@@ -1,47 +1,125 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">I'm an AI/ML Engineer.</h3>
+<h1 align="center">Hi 👋 I'm Yash Rawal</h1>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<h3 align="center">
+Enterprise AI Engineer • Spring AI Contributor • AI Researcher
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrl&label=Profile%20views&color=0e75b6&style=flat" alt="yashrl" /> </p>
-
-🔭 I’m currently working on **AI solutions related to Healthcare Industry** you check my progress on https://huggingface.co/Yash911
-
-- 🌱 I’m currently learning **ASR and Generative AI**
-
-- 💬 Ask me about **Python and Neural Networks**
-
-- 📫 How to reach me **yashrawal987@gmail.com**
-
-- ⚡ **"I might not be as fast as a GPU, but I promise I'll connect before your coffee gets cold."**
-<h3 align="left">Network with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-rawal" height="30" width="40" /></a>
-<a href="https://instagram.com/_rawal_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rawal_yash" height="30" width="40" /></a>
+<p align="center">
+Building production AI systems, contributing to open source, and researching efficient Small Language Models.
 </p>
 
-<h3 align="left">My Arsenal:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
 
+- 🏢 AI/ML Engineer building enterprise AI systems for SAP-integrated platforms serving **10,000+ users**
+- 🌱 Open Source Contributor to **Spring AI**
+- 🧠 Researching **Small Language Models (SLMs)** for edge devices and efficient AI
+- ⚙️ Building AI Agents, MCP Servers, Enterprise RAG, Semantic Search & AI Infrastructure
+- 📚 Interested in AI Systems, Retrieval, Evaluation, Distributed Agents and Efficient Training
+- ✉️ yashrawal987@gmail.com
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 🚀 Current Focus
+
+- Enterprise AI Platform Engineering
+- Spring AI
+- Model Context Protocol (MCP)
+- Agentic AI
+- Retrieval Augmented Generation (RAG)
+- Small Language Models
+- AI Evaluation
+- AI Infrastructure
+
+---
+
+## 🌍 Open Source
+
+### Spring AI Contributor
+
+✅ Merged Contribution
+
+- Amazon Bedrock Converse Cache TTL Support
+- Spring AI 2.0.1
+
+🚧 Active Contributions
+
+- Reasoning Metadata Improvements
+- OpenAI Integration
+- Enterprise AI Features
+
+---
+
+## 🔬 Research
+
+### Mini Language Model (MLM)
+
+I'm researching how capable language models can be trained with minimal compute.
+
+The long-term goal is to make useful AI practical for:
+
+- Raspberry Pi
+- Android
+- iOS
+- Edge Devices
+- Embedded Hardware
+
+Current research includes
+
+- Efficient Transformers
+- Lightweight Attention
+- Tokenizers
+- Training from Scratch
+- FragmentStream Attention
+- Low-compute AI
+
+---
+
+## 🛠 Tech Stack
+
+### AI
+
+Python • Java • Spring AI • MCP • LangChain • LangGraph • OpenAI • Claude • Gemini • Amazon Bedrock
+
+### Retrieval
+
+Hybrid Search • BM25 • pgvector • FAISS • Pinecone
+
+### Backend
+
+Spring Boot • FastAPI • Flask • PostgreSQL • SAP HANA • GraphQL
+
+### Cloud
+
+Docker • AWS • Azure • SAP BTP
+
+---
+
+## 📌 Featured Projects
+
+🔹 Spring AI Contributions
+
+🔹 Mini Language Model
+
+🔹 Enterprise RAG Platform
+
+🔹 MCP Server
+
+🔹 AI Evaluation Framework
+
+---
+
+## 🌐 Connect
+
+LinkedIn:
+https://linkedin.com/in/rawal-yash
+
+Hugging Face:
+https://huggingface.co/Yash911
+
+Kaggle:
+https://www.kaggle.com/yashrawal2001
+
+GitHub:
+https://github.com/YashRL
